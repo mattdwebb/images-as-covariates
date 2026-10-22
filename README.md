@@ -6,4 +6,6 @@ Ardyn Nordstrom<sup>1</sup>, Morgan Nordstrom<sup>2</sup>, Vamuyan Sesay<sup>1</
 <sup>2</sup> Independent Researcher  
 <sup>3</sup> Department of Economics, Carleton University
 
-This repository is a temporary public home for the working paper. The PDF will be uploaded here shortly. An arXiv submission is planned; this repository may be retired after a permanent public version is available.
+[Read the paper (PDF)](Images_as_Covariates.pdf) — October 21, 2026 version.
+
+This repository is a temporary public home for the working paper. An arXiv submission is planned; this repository may be retired after a permanent public version is available.
